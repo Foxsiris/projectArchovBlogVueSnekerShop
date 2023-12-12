@@ -4,6 +4,9 @@
         imageUrl ="/sneakers/sneakers-5.jpg"
         price="5000"
         title="NameSneaker"
+        isfavorite="false"
+        :isAdded="true"
+        :isfavorite="true"
     />
      <card/>
      <card/>
